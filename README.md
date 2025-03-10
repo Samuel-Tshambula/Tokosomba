@@ -47,5 +47,5 @@ Suivez ces étapes pour installer et exécuter le projet localement.
 
 1. **Clonez le dépôt** :
    ```bash
-   git clone https://github.com/votre-utilisateur/Tokosomba.git
+   git clone https://github.com/Samuel-Tshambula/Tokosomba.git
    cd Tokosomba

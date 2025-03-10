@@ -1,6 +1,6 @@
-# Tokosombadoc
+# Tokosomba
 
-**Tokosombadoc** est une plateforme en ligne qui connecte les vendeurs et les clients, permettant aux vendeurs de publier des produits et aux clients de les découvrir, de discuter avec les vendeurs, et de passer des commandes. Seuls les produits des administrateurs peuvent être commandés et livrés.
+**Tokosomba** est une plateforme en ligne qui connecte les vendeurs et les clients, permettant aux vendeurs de publier des produits et aux clients de les découvrir, de discuter avec les vendeurs, et de passer des commandes. Seuls les produits des administrateurs peuvent être commandés et livrés.
 
 ---
 
@@ -47,5 +47,5 @@ Suivez ces étapes pour installer et exécuter le projet localement.
 
 1. **Clonez le dépôt** :
    ```bash
-   git clone https://github.com/votre-utilisateur/tokosombadoc.git
-   cd tokosombadoc
+   git clone https://github.com/votre-utilisateur/Tokosomba.git
+   cd Tokosomba
